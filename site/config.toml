@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "My New Brunch With Hugo Site"
+
+# filesystem path to write files to
+publishDir = "../public"
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details: 
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
